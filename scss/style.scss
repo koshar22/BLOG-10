@@ -50,7 +50,7 @@ nav {
 
 .left {
     margin: 0 20px 0 $width ;
-    width: $width*4;
+    // width: $width*4;
 
     .one1 {
         @include style();
